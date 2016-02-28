@@ -1,0 +1,37 @@
+_repo: World-s-Best-Histories-Volume-7-France_7054
+creator:
+  authors:
+  - agent_name: Witt, Madame de (Henriette Elizabeth)
+    aliases:
+    - De Witt, Madame (Henriette Elizabeth)
+    - Guizot de Witt, Madame (Henriette Elizabeth)
+    birthdate: 1829
+    deathdate: 1908
+    gutenberg_agent_id: '2325'
+    url: http://www.gutenberg.org/2009/agents/2325
+  - agent_name: Guizot, François
+    aliases:
+    - Guisot, M. (François)
+    - Guizot, Monsieur (François)
+    - Guizot, François Pierre Guillaume
+    - Guizot, Francois Pierre Guillaume
+    - Guizot, M. (François)
+    birthdate: 1787
+    deathdate: 1874
+    gutenberg_agent_id: '5686'
+    url: http://www.gutenberg.org/2009/agents/5686
+    wikipedia: http://en.wikipedia.org/wiki/François_Guizot
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7054'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- History'
+title: 'World''s Best Histories — Volume 7: France'
+url: http://www.gutenberg.org/ebooks/7054
