@@ -1,4 +1,8 @@
 _repo: World-s-Best-Histories-Volume-7-France_7054
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Witt, Madame de (Henriette Elizabeth)
@@ -22,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5686
     wikipedia: http://en.wikipedia.org/wiki/François_Guizot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7054#World-s-Best-Histories-Volume-7-France
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
